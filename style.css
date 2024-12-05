@@ -1,0 +1,72 @@
+
+h1{
+    font-size : 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;    
+}
+
+.container {
+    padding:  0 100px;
+}
+
+.SSC {
+    background-color: beige;
+    width: 400px;
+    height: 400px;
+    border-color: black;
+    float: left;
+}
+.spic{
+    height: 300px;
+    width: 300px;
+}
+
+.CBSC {
+    background-color: beige;
+    width: 400px;
+    height: 400px;
+    border-color: black;
+    float: right;
+}
+.cpic{
+    height: 300px;
+    width: 300px;
+}
+
+button {
+    height: 20px;
+    width: 400px;
+    background-color: rgb(104, 100, 100);
+    
+}
+
+.container-1{
+    display: flex;
+    margin-left: 250px;
+    
+}
+.ss{
+    background-color: beige;
+    width: 300px;
+    height: 300px;
+    border-color: black;
+    margin-right: 50px;
+}
+
+.sss{
+    background-color: beige;
+    width: 300px;
+    height: 300px;
+    border-color: black;
+    margin-right: 50px;
+
+}
+
+.ssss{
+    background-color: beige;
+    width: 300px;
+    height: 300px;
+    border-color: black;
+    margin-right: 50px;
+
+}
